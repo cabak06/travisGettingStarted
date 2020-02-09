@@ -1,4 +1,6 @@
 
+[![Build Status](https://travis-ci.com/cabak06/travisGettingStarted.svg?branch=master)](https://travis-ci.com/cabak06/travisGettingStarted)
+
 
 Ultra simple Java Project meant for a Travis introduction
 
